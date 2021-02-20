@@ -1,0 +1,22 @@
+h3{
+    text-align: center;
+    font-weight: bold;
+}
+.color{
+   padding-left: 30px;
+    padding-right: 30px;
+    background-color: darkgray;
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+.navbar{
+    background-color: darkgray;
+    border:2px solid black;
+    border-radius: 0;
+}
+h2{
+    font-weight: bold;
+}
